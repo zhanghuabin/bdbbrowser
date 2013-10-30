@@ -1,0 +1,12 @@
+target
+*.log
+*.class
+work
+.#*
+*.bak
+*~
+build
+doctrees
+.gradle
+.buildinfo
+.idea
